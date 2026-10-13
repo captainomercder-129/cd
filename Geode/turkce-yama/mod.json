@@ -1,0 +1,9 @@
+{
+  "geode": "4.0.0",
+  "gd": { "win": "2.2074", "android": "2.2074" },
+  "id": "sen.turkce-yama",
+  "name": "Türkçe Yama",
+  "version": "v1.0.0",
+  "developer": "Sen",
+  "description": "Oyun metinlerini Türkçeye çevirir."
+}
